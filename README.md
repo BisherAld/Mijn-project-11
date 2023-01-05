@@ -8,15 +8,14 @@
 
 *👨‍💻 Ik ben goed in de volgende programmeertalen:*
 
-*. PHP* 
-
-```
 <p align="center">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </p>
-```
 
-*. C#* 
+
+*. PHP 
+
+*. C#*
 
 *. HTML*
 
