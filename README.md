@@ -4,4 +4,6 @@ Dit is mijn Project
 
 ##Gebruik
 
-Zo gebruik je een i k k k k k
+Zo gebruik jk
+
+e een i k k k k
