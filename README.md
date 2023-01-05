@@ -1,23 +1,23 @@
 # Mijn Project
 
-Hallo, ik ben Bisher Aldhni (18)
+*Hallo👋, ik ben Bisher Aldhni (18)*
 
-+
+*+*
 
-ik ben een student Software Developerop het Nova college (Hoofdorp) en ik werk aan mijn projecten voorlopig. Ik ben atlijd bezig met leren van nieuwe talen en daar ben ik bezig mee.
+*🎓 Ik ben een student Software Developerop het Nova college (Hoofdorp) en ik werk aan mijn projecten voorlopig. Ik ben atlijd bezig met leren van nieuwe talen en daar ben ik bezig mee.*
 
-Ik  ben goed in de volgende programmeertalen:
+*👨‍💻 Ik ben goed in de volgende programmeertalen:*
 
-. PHP
+*. PHP*
 
-. C# 
+*. C#* 
 
-. HTML
+*. HTML*
 
-. CSS
+*. CSS*
 
-. Bootstrap
+*. Bootstrap*
 
-. Mysql
+*. Mysql*
 
-Voor contact op te nemen, stuur mijn een mail naar aldbisher@gamil.com
+*Voor contact op te nemen, stuur mijn een mail naar aldbisher@gamil.com*
