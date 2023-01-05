@@ -1,9 +1,21 @@
 # Mijn Project
 
-Dit is mijn Project
+Hallo, ik ben Bisher Aldhni (18)
 
-##Gebruik
++
 
-Zo gebruik jk
+ik ben een student Software Developer en ik werk an mijn projecten. Ik ben atlijd bezig met leren van nieuwe talen en daar ben ik bezig mee. 
 
-e een i k k k k
+Ik  ben goed in de volgende programmeertalen
+
+. PHP
+
+. C# 
+
+. HTML
+
+. CSS
+
+. Bootstrap
+
+. Mysql
