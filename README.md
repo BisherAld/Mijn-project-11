@@ -4,9 +4,9 @@ Hallo, ik ben Bisher Aldhni (18)
 
 +
 
-ik ben een student Software Developer en ik werk an mijn projecten. Ik ben atlijd bezig met leren van nieuwe talen en daar ben ik bezig mee. 
+ik ben een student Software Developerop het Nova college (Hoofdorp) en ik werk aan mijn projecten voorlopig. Ik ben atlijd bezig met leren van nieuwe talen en daar ben ik bezig mee.
 
-Ik  ben goed in de volgende programmeertalen
+Ik  ben goed in de volgende programmeertalen:
 
 . PHP
 
@@ -19,3 +19,5 @@ Ik  ben goed in de volgende programmeertalen
 . Bootstrap
 
 . Mysql
+
+Voor contact op te nemen, stuur mijn een mail naar aldbisher@gamil.com
